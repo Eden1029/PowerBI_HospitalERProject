@@ -43,6 +43,13 @@ This project uses **three main files**:
 
 ---
 
+## 📐 Data Modeling
+Below is the star schema model used in this project:
+
+![Data Model](https://github.com/Eden1029/PowerBI_HospitalERProject/blob/main/Hospital%20ER%20Data%20Model.png)
+
+---
+
 ## 📊 Key Insights & Trends  
 
 ### 1️⃣ **Total ER Visits (April 2019 - October 2020)**  
